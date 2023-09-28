@@ -1,0 +1,170 @@
+
+@import url(https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* navbar style */
+
+.navbar-nav a {
+  font-size: 18px;
+}
+/* navbar style end */
+
+.abs
+{
+  text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.App-link {
+  color: #61dafb;
+
+
+
+
+
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.nav_bar_wrapper a{
+  padding-left: 30px;
+  
+}
+
+
+
+
+
+
+
+span{
+  padding: 10px;
+  background-color: rgb(38, 141, 107);
+  font-size: 20px;
+  margin-bottom: 10px;
+  line-height: 50px;
+
+}
+
+.btn-wrapper button
+{
+  background-color: rgb(0, 255, 34);
+  border: 0px;
+  padding: 10px;
+  border-radius: 5px;
+  color: rgb(84, 43, 150);
+  box-shadow: black 0px,0px,1px;
+  
+}
+.img-wrapper img{
+    width:100px;
+    margin-top:10px;
+
+}
+.card-wrapper{
+        height: 100px;
+        width: 500px;
+        margin-left: 10%;
+        border: 1px solid #451a1a; 
+  
+}
+
+.item{
+
+      float: center;
+      display: inline-table;
+      width: 220px;
+      padding: 16px;
+      height: 70px;
+}
+.add-to-cart img{
+  width: 100px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+
+}
+
+.cart-count{
+  position: absolute;
+  right: 50px;
+  top: 12px;
+  z-index: 1;
+  padding: 0%;
+  background-color: red;
+  width: 20px;
+  border-radius: 100%;
+}
+button.remove-cart{
+  background-color: rgba(13,110,253,.25);
+    margin-top: 5px;
+} */
+
+
+
+
+/* .NavBar.active{
+  color: aqua;
+  background-color: red;
+}
+.NavBar{
+  text-align: right;
+}
+.NavBar li{
+  display: inline-block;
+  padding: 10px 05px;
+}
+.NavBar-Link{
+  color: blue; */
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
